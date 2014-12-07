@@ -7,7 +7,7 @@ html
 	background-repeat: no-repeat;
 	background-size: cover;!important;
 	font-family: 'Open Sans';
-	font-size: 12pt!important;
+	font-size: 11pt!important;
 }
 
 .navigation
@@ -30,7 +30,7 @@ html
 	text-decoration: none;
 	color: #32558a;
 	font-family: 'Open Sans';
-	font-size: 12pt!important;
+	font-size: 11pt!important;
 	font-weight: 400 !important;
 }
 
@@ -39,7 +39,7 @@ html
 	text-decoration: none;
 	color: #1e3252;
 	font-family: 'Open Sans';
-	font-size: 12pt!important;
+	font-size: 11pt!important;
 	font-weight: 400 !important;
 }
 
@@ -47,7 +47,7 @@ html
 {
 	margin-left: auto;
 	margin-right: auto;
-	width:60%
+	width:80%
 }
 
 
@@ -59,9 +59,9 @@ html
 	color:#555;
 	list-style:none;
 	text-indent:10px;
-	font-size: 12pt!important;
+	font-size: 11pt!important;
 	font-weight: 400;
-	border-top: 1px solid #777 !important;
+	border-top: 3px solid #777 !important;
 	border-right: 1px solid #777 !important;
 	border-bottom:none !important;
 }
@@ -78,6 +78,7 @@ html
 	color:#555;
 	display:block;
 	border-bottom: 1px solid #777 !important;
+	margin-top:-2px !important;
 }
 
 .navigation ul li a:hover
@@ -85,6 +86,7 @@ html
 	text-decoration:none;
 	background:  #ddd;
 	display:block;
+	margin-top:-2px !important;
 }
 
 #wrapper ol
@@ -94,7 +96,7 @@ html
 
 .h
 {
-	font-size: 16pt;
+	font-size: 14pt;
 	font-weight: 600;
 }
 
@@ -110,7 +112,7 @@ html
 
 .h3
 {
-	font-size: 12pt;
+	font-size: 11pt;
 	text-align:center;
 }
 
