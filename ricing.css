@@ -13,8 +13,8 @@ html
 .navigation
 {
 	position: fixed;
-	width:337;
-	left: -317;
+	width: 237;
+	left: -217;
 	background:url(http://www.gbgl-hq.com/demoness/html/navarrow.png);
 	background-position: 17px !important;
 	background-repeat:none;
@@ -45,6 +45,7 @@ html
 
 #wrapper
 {
+	margin-top:30px;
 	margin-left: auto;
 	margin-right: auto;
 	width:80%
@@ -53,7 +54,7 @@ html
 
 .navigation ul
 {
-	width: 315;
+	width: 215;
 	padding:0px;
 	margin:0px;
 	color:#555;
