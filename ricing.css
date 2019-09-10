@@ -1,7 +1,7 @@
 html
 {
 	color:#555;
-	background: url(http://www.gbgl-hq.com/demoness/html/nanami2016.png);
+	background: url(demoness/html/nanami2016.png);
 	background-position: right; !important;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -15,7 +15,7 @@ html
 	position: fixed;
 	width: 237;
 	left: -217;
-	background:url(http://www.gbgl-hq.com/demoness/html/navarrow.png);
+	background:url(demoness/html/navarrow.png);
 	background-position: 17px !important;
 	background-repeat:none;
 }
